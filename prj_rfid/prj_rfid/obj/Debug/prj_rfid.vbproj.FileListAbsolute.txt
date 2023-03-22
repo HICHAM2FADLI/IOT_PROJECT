@@ -1,0 +1,38 @@
+C:\Users\rielGabs\AppData\Local\Temporary Projects\prj_rfid\bin\Debug\prj_rfid.exe.config
+C:\Users\rielGabs\AppData\Local\Temporary Projects\prj_rfid\bin\Debug\prj_rfid.exe
+C:\Users\rielGabs\AppData\Local\Temporary Projects\prj_rfid\bin\Debug\prj_rfid.pdb
+C:\Users\rielGabs\AppData\Local\Temporary Projects\prj_rfid\bin\Debug\prj_rfid.xml
+C:\Users\rielGabs\AppData\Local\Temporary Projects\prj_rfid\obj\Debug\prj_rfid.vbprojResolveAssemblyReference.cache
+C:\Users\rielGabs\AppData\Local\Temporary Projects\prj_rfid\obj\Debug\prj_rfid.Form1.resources
+C:\Users\rielGabs\AppData\Local\Temporary Projects\prj_rfid\obj\Debug\prj_rfid.Resources.resources
+C:\Users\rielGabs\AppData\Local\Temporary Projects\prj_rfid\obj\Debug\prj_rfid.vbproj.GenerateResource.Cache
+C:\Users\rielGabs\AppData\Local\Temporary Projects\prj_rfid\obj\Debug\prj_rfid.exe
+C:\Users\rielGabs\AppData\Local\Temporary Projects\prj_rfid\obj\Debug\prj_rfid.xml
+C:\Users\rielGabs\AppData\Local\Temporary Projects\prj_rfid\obj\Debug\prj_rfid.pdb
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\obj\Debug\prj_rfid.vbprojResolveAssemblyReference.cache
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\obj\Debug\prj_rfid.vbproj.GenerateResource.Cache
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\bin\Debug\MySql.Data.dll
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\bin\Debug\Google.Protobuf.dll
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\bin\Debug\MySql.Data.xml
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\bin\Debug\Time_LOG.exe.config
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\bin\Debug\Time_LOG.exe
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\bin\Debug\Time_LOG.pdb
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\bin\Debug\Time_LOG.xml
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\obj\Debug\Time_LOG.Form1.resources
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\obj\Debug\Time_LOG.Resources.resources
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\obj\Debug\Time_LOG.exe
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\obj\Debug\Time_LOG.xml
+C:\Users\rielGabs\Desktop\prj_rfid\prj_rfid\obj\Debug\Time_LOG.pdb
+D:\FILES\prj_rfid\prj_rfid\bin\Debug\Time_LOG.exe.config
+D:\FILES\prj_rfid\prj_rfid\obj\Debug\Time_LOG.exe
+D:\FILES\prj_rfid\prj_rfid\obj\Debug\Time_LOG.xml
+D:\FILES\prj_rfid\prj_rfid\obj\Debug\Time_LOG.pdb
+D:\FILES\prj_rfid\prj_rfid\bin\Debug\Time_LOG.exe
+D:\FILES\prj_rfid\prj_rfid\bin\Debug\Time_LOG.pdb
+D:\FILES\prj_rfid\prj_rfid\bin\Debug\Time_LOG.xml
+D:\FILES\prj_rfid\prj_rfid\bin\Debug\Google.Protobuf.dll
+D:\FILES\prj_rfid\prj_rfid\bin\Debug\MySql.Data.xml
+D:\FILES\prj_rfid\prj_rfid\obj\Debug\prj_rfid.vbprojResolveAssemblyReference.cache
+D:\FILES\prj_rfid\prj_rfid\obj\Debug\Time_LOG.Form1.resources
+D:\FILES\prj_rfid\prj_rfid\obj\Debug\Time_LOG.Resources.resources
+D:\FILES\prj_rfid\prj_rfid\obj\Debug\prj_rfid.vbproj.GenerateResource.Cache
